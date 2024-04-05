@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\00_cetus\\rock_back-end\\homework\\homework\\homework.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\00_cetus\\rock_back-end\\hand-in\\homework\\homework\\homework.csproj",
       "projectName": "homework",
-      "projectPath": "C:\\Users\\user\\Documents\\00_cetus\\rock_back-end\\homework\\homework\\homework.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\00_cetus\\rock_back-end\\hand-in\\homework\\homework\\homework.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\00_cetus\\rock_back-end\\homework\\homework\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\00_cetus\\rock_back-end\\hand-in\\homework\\homework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
